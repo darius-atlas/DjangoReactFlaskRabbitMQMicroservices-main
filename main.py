@@ -1,6 +1,6 @@
 
 from flask import Flask
-form flask_cors import CORS
+from flask_cors import CORS
 from flask_sqlalchemy import SQLAlchemy
 
 
