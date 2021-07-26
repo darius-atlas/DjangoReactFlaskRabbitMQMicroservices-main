@@ -5,3 +5,4 @@ Clone this project as 'main' folder<br>
 1. docker-compose up
 2. docker-compose exec main sh
 3. python manager.py db init
+4. python manager.py db migrate
